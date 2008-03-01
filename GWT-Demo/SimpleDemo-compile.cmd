@@ -1,0 +1,1 @@
+@java -cp "%~dp0\src;%~dp0\bin;E:/WorkSoft/gwt-windows-1.4.60/gwt-user.jar;E:/WorkSoft/gwt-windows-1.4.60/gwt-dev-windows.jar" com.google.gwt.dev.GWTCompiler -out "%~dp0\www" %* com.gwt.demo.SimpleDemo
